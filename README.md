@@ -1,4 +1,4 @@
-# Leetcode-200.-Number-of-Islands-
+# Leetcode: Number of Islands (200)
 CS 460 Extra Credit 5
 "Implement DFS to solve the following problem."
 
